@@ -264,4 +264,4 @@ This repository serves as the official landing page for DraftSight. The software
 **Get the most recent version of DraftSight today!**
 
 ---
-**Last updated:** 2026-09-09 20:43:54 UTC
+**Last updated:** 2026-09-09 23:04:42 UTC
